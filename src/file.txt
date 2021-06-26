@@ -1,0 +1,2 @@
+Hello this is a text file.
+And this file is getting opened and read using node js 'file system'.
