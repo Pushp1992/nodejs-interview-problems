@@ -2,8 +2,6 @@
 
 This is a Node js Hiring Tournament - Season 1. 
 
-[Problem Reference Document](https://docs.google.com/document/d/1BeaQOLWedRN_nhKhz8e4Mz0B-_iGFjQabUUdHfbWkBk/edit)
-
 ## Required Prerequisites
 
 -   You will need to have node installed in your machine
@@ -55,3 +53,5 @@ node index.js
 ```bash
 node src/module/file-name.js
 ```
+
+[Problem Reference Document](https://docs.google.com/document/d/1BeaQOLWedRN_nhKhz8e4Mz0B-_iGFjQabUUdHfbWkBk/edit)
