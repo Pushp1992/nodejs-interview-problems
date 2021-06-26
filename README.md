@@ -16,7 +16,7 @@ This is a Node js Hiring Tournament - Season 1.
 ### Change your present working directory to the cloned repository
 
 ```bash
-cd tournament-season-1
+cd nodejs-tournament-episode1
 ```
 
 ### Check your node version
