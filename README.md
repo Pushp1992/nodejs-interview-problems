@@ -11,7 +11,7 @@ This is a Node js Hiring Tournament - Season 1.
 
 ### Clone the tournament repository from GitHub
 
-`git clone `
+`git clone https://github.com/Pushp1992/nodejs-tournament-episode1.git`
 
 ### Change your present working directory to the cloned repository
 
